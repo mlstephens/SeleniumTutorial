@@ -35,8 +35,8 @@ G:\DATA_MICHAEL\SandBox Area\General Projects\SeleniumTutorial\SeleniumTutorial\
 G:\DATA_MICHAEL\SandBox Area\General Projects\SeleniumTutorial\SeleniumTutorial\bin\Debug\nunit.framework.pdb
 G:\DATA_MICHAEL\SandBox Area\General Projects\SeleniumTutorial\SeleniumTutorial\bin\Debug\nunit.framework.xml
 G:\DATA_MICHAEL\SandBox Area\General Projects\SeleniumTutorial\SeleniumTutorial\bin\Debug\WebDriver.xml
-G:\DATA_MICHAEL\SandBox Area\General Projects\SeleniumTutorial\SeleniumTutorial\obj\Debug\SeleniumTutorial.csprojAssemblyReference.cache
 G:\DATA_MICHAEL\SandBox Area\General Projects\SeleniumTutorial\SeleniumTutorial\obj\Debug\SeleniumTutorial.csproj.CoreCompileInputs.cache
 G:\DATA_MICHAEL\SandBox Area\General Projects\SeleniumTutorial\SeleniumTutorial\obj\Debug\SeleniumTutorial.csproj.CopyComplete
 G:\DATA_MICHAEL\SandBox Area\General Projects\SeleniumTutorial\SeleniumTutorial\obj\Debug\SeleniumTutorial.exe
 G:\DATA_MICHAEL\SandBox Area\General Projects\SeleniumTutorial\SeleniumTutorial\obj\Debug\SeleniumTutorial.pdb
+G:\DATA_MICHAEL\SandBox Area\General Projects\SeleniumTutorial\SeleniumTutorial\obj\Debug\SeleniumTutorial.csprojAssemblyReference.cache
