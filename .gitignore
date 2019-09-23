@@ -4,3 +4,21 @@
 
 /.vs/SeleniumTutorial/v16/Server/sqlite3/db.lock
 /.vs/SeleniumTutorial/v16/Server/sqlite3
+/.vs/SeleniumTutorial/v16/.suo
+/SeleniumTutorial/bin/Debug/SeleniumTutorial.exe
+/SeleniumTutorial/bin/Debug/SeleniumTutorial.pdb
+/SeleniumTutorial/obj/Debug/SeleniumTutorial.csproj.CoreCompileInputs.cache
+/SeleniumTutorial/obj/Debug/SeleniumTutorial.csproj.FileListAbsolute.txt
+/SeleniumTutorial/obj/Debug/SeleniumTutorial.csprojAssemblyReference.cache
+/SeleniumTutorial/obj/Debug/SeleniumTutorial.exe
+/SeleniumTutorial/obj/Debug/SeleniumTutorial.pdb
+/UnitTest/bin/Debug/SeleniumTutorial.exe
+/UnitTest/bin/Debug/SeleniumTutorial.pdb
+/UnitTest/bin/Debug/UnitTest.dll
+/UnitTest/bin/Debug/UnitTest.pdb
+/UnitTest/bin/Debug/nunit_random_seed.tmp
+/UnitTest/obj/Debug/UnitTest.csproj.CoreCompileInputs.cache
+/UnitTest/obj/Debug/UnitTest.csproj.FileListAbsolute.txt
+/UnitTest/obj/Debug/UnitTest.csprojAssemblyReference.cache
+/UnitTest/obj/Debug/UnitTest.dll
+/UnitTest/obj/Debug/UnitTest.pdb
